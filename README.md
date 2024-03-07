@@ -17,12 +17,10 @@ A router (router) is used to define message handling routes.
 Handlers:
 
 The bot has several command handlers:
+
 /start: Initiates the conversation, prompting users to enter their first name and last name.
-
 /restart: Allows users to restart the questionnaire.
-
 /admin: Sets the chat ID for administrative purposes.
-
 /data: Retrieves and sends all user answers as a document.
 
 Questionnaire Workflow:
