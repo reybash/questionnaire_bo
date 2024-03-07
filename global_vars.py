@@ -1,0 +1,8 @@
+from db import DB
+
+db = DB()
+ENTER_BUTTON = "Enter"
+ONE_MINUTE_SECONDS = 60
+TIMER_OFFSET = 5
+WAITING_TIME = 3
+TIME_FOR_NOTICE = 15
